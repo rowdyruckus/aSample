@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'web3' target in the 'web3' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
